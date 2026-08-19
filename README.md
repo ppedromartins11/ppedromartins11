@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Front-End em formação <br>
-  🎓 Ciência da Computação – 4º Semestre <br>
+  🎓 Analise e Desenvolvimento de Sistemas – 3º Semestre <br>
   🚀 Focado em evolução constante e projetos reais
 </p>
 
